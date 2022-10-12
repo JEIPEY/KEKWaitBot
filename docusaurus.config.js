@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: "JEIPEY",
-  projectName: "my-website",
+  projectName: "KEKWaitBot",
   deploymentBranch: "gh-pages",
 
   i18n: {
