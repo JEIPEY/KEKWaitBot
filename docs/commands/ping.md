@@ -2,5 +2,29 @@
 sidebar_position: 5
 ---
 
-# Пинг чаттерса
+# Пинг случайного чаттерса
 
+### Описание
+
+Пингануть случайного зрителя в чате.
+
+## Использование комманды
+
+ **`!пинг`**
+
+## Пример использования
+![Docs Version Dropdown](./img/ping.gif)
+
+  <div>
+
+| Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+|:----------------|:----------------------|
+| User cooldown   | 60 seconds            |
+| Mod only        | No                    |
+| Sub only        | No                    |
+| Vip only        | No                    |
+| Другие варианты комманды        | !ping              |
+  </div>
+
+
+Last update on 11.10.2022

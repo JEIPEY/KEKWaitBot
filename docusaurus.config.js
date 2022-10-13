@@ -47,7 +47,7 @@ const config = {
             label: 'Команды',
           },
           {
-            href: 'https://www.twitch.tv/jeipey',
+            to: 'https://www.twitch.tv/jeipey',
             label: 'Twitch',
             position: 'right',
           },
@@ -55,6 +55,20 @@ const config = {
       },
       footer: {
         style: 'dark',
+        links: [
+          {
+            items: [
+              {
+                label: 'Twitch',
+                to: 'https://www.twitch.tv/jeipey',
+              },
+              {
+                label: 'Discord',
+                to: 'https://discord.com/invite/uzJRD4wCt6',
+              },
+            ],
+          }
+          ],
       },
       prism: {
         theme: lightCodeTheme,
