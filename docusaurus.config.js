@@ -51,25 +51,19 @@ const config = {
             label: 'Twitch',
             position: 'right',
           },
+          {
+            to: 'https://discord.com/invite/uzJRD4wCt6',
+            label: 'Discord',
+            position: 'right',
+          },
+          {
+            to: 'https://t.me/privetjeipey',
+            label: 'Telegram',
+            position: 'right',
+          },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            items: [
-              {
-                label: 'Twitch',
-                to: 'https://www.twitch.tv/jeipey',
-              },
-              {
-                label: 'Discord',
-                to: 'https://discord.com/invite/uzJRD4wCt6',
-              },
-            ],
-          }
-          ],
-      },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

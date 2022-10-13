@@ -35,9 +35,6 @@
   margin-left: 5px;
 }
 
-.footer {
-  height: 120px;
-}
-.footer_links_items {
-  position: left;
+html {
+  font-size: 18px;
 }

@@ -55,4 +55,4 @@ sidebar_position: 2
 | Другие варианты комманды        | !стоимость !рыба                    |
   </div>
 
-Last update on 11.10.2022
+Last update on 15.10.2022

@@ -1,0 +1,39 @@
+---
+sidebar_position: 2
+---
+
+# Слоты
+
+### Описание
+
+Сыграйте в слоты, что бы увеличить свою ставку в несколько раз!
+
+## Использование комманды
+ **`!слоты amount`**
+
+- `amount` - количество 
+
+:::note
+
+В качестве `amount` можно использовать **all** или **всё**, что бы поставить всё золото на балансе.
+
+:::
+
+## Пример использования
+![Docs Version Dropdown](./img/sl.png)
+![Docs Version Dropdown](./img/sl+.png) 
+![Docs Version Dropdown](./img/sl++.png)
+
+  <div>
+
+| Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+|:----------------|:----------------------|
+| User cooldown   | 0 seconds            |
+| Mod only        | No                    |
+| Sub only        | No                    |
+| Vip only        | No                    |
+| Другие варианты комманды        | !slots             |
+  </div>
+
+
+Last update on 15.10.2022
