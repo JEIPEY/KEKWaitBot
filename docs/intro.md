@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Основы
 
-:::danger
+:::danger Warning
 
 Всё золото обнулиться 15.10.2022 в 15:00
 
