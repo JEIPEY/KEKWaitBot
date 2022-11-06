@@ -45,7 +45,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Команды',
-          },
+          },       
           {
             to: 'https://www.twitch.tv/jeipey',
             label: 'Twitch',
