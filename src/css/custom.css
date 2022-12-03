@@ -38,3 +38,22 @@
 html {
   font-size: 18px;
 }
+
+#new {
+  background-color: #2cf30442;
+  text-align: center;
+}
+
+#update {
+  background-color: #ffc40057;
+  text-align: center;
+}
+
+#del{
+  background-color: #b40a0a60;
+  text-align: center;
+}
+
+#log {
+  font-size: 14px;
+}

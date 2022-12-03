@@ -47,6 +47,11 @@ const config = {
             label: 'Команды',
           },       
           {
+            to: '/KEKWaitBot/Logs',
+            label: 'Logs',
+            position: 'left',
+          },  
+          {
             to: 'https://www.twitch.tv/jeipey',
             label: 'Twitch',
             position: 'right',
