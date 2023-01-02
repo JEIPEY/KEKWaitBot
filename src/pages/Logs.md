@@ -4,6 +4,25 @@ description: Logs ver.
 hide_table_of_contents: false
 ---
 
+## Ver. 0.002 
+#### <p id="log">2/01/2023</p>
+
+<p id="log">
+
+
+- Добавлены новая команда [!game](/KEKWaitBot/docs/commands/game)
+- Добавлены новая команда [!title](/KEKWaitBot/docs/commands/title)
+
+
+- Бот обновлён на новую версию
+- Исправлены ошибки связаные с переходом на новую версию
+
+
+</p>
+
+
+
+
 ## Ver. 0.001 
 #### <p id="log">3/12/2022</p>
 
