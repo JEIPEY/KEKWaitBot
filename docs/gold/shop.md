@@ -13,7 +13,7 @@ sidebar_position: 1
  **`!shop`**
 
 ## Использование комманды
- **`!shop **`**
+ **`!shop `**
  
 
   <div>
