@@ -38,7 +38,7 @@ sidebar_position: 2
 | Mod only        | No                    |
 | Sub only        | No                    |
 | Vip only        | No                    |
-| Другие варианты комманды        | !slots             |
+| Другие варианты комманды        | !slots GAMBA             |
   </div>
 
 
