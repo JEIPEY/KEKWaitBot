@@ -10,8 +10,8 @@ hide_table_of_contents: false
 <p id="log">
 
 
-- Добавлены новая команда [!game](/KEKWaitBot/docs/commands/game)
-- Добавлены новая команда [!title](/KEKWaitBot/docs/commands/title)
+- Добавлены новая команда !game
+- Добавлены новая команда !title
 
 
 - Бот обновлён на новую версию
