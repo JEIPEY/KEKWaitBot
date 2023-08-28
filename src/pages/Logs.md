@@ -4,7 +4,7 @@ description: Logs ver.
 hide_table_of_contents: false
 ---
 
-## Ver. 0.004 
+## Ver. 0.003 
 #### <p id="log">28/08/2023</p>
 
 <p id="log">

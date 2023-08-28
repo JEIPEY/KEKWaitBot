@@ -28,7 +28,6 @@ sidebar_position: 2
 
 ## Пример использования
 ![Docs Version Dropdown](./img/sl.png)
-![Docs Version Dropdown](./img/sl+.png) 
 ![Docs Version Dropdown](./img/sl++.png)
 
   <div>
@@ -43,4 +42,4 @@ sidebar_position: 2
   </div>
 
 
-Last update on 15.10.2022
+Last update on 28.08.2023
