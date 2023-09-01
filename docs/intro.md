@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Золото
 
-Валюта бота, которую можно получить за просмотр [стрима](https://www.twitch.tv/jeipey), [выловив рыбу](/docs/Fishing) или [попросив у других](/docs/commands/givepoints).
+Валюта бота, которую можно получить за просмотр [стрима](https://www.twitch.tv/jeipey), [выловив рыбу](/docs/Fishing) или [попросив у других](/docs/gold/givepoints).
 
 За просмотр стрима, каждую 1 минуту даёться **5** золота.
 
