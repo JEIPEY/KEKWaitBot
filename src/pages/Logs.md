@@ -23,7 +23,7 @@ hide_table_of_contents: false
 - Добавлен предмет для магазина Наживка
 - Добавлена команда [!inventory](/KEKWaitBot/docs/info/inventory)
 - Добавлено получение опыта ко всем пойманым прдеметам и рыбам
-- Добавлена команда [!РусскаяРулетка](/KEKWaitBot/docs/game/Rroulette)
+- Добавлена команда [!РусскаяРулетка](/KEKWaitBot/docs/games/Rroulette)
 - Добавлено авто-удаление сообщений с неприятными смайлами
 - Добавлена команда [!time](/KEKWaitBot/docs/commands/time) 
 - Добавлены команды [ссылки](/KEKWaitBot/docs/commands/link) [Дискорд](https://discord.com/invite/uzJRD4wCt6 ), [ГудГейм](https://goodgame.ru/channel/JEIPEY/ ), [Телеграм](https://t.me/privetjeipey )
