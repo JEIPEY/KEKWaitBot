@@ -25,7 +25,7 @@ hide_table_of_contents: false
 - Добавлено получение опыта ко всем пойманым прдеметам и рыбам
 - Добавлена команда [!РусскаяРулетка](/KEKWaitBot/docs/game/Rroulette)
 - Добавлено авто-удаление сообщений с неприятными смайлами
-- Добавлена команда [!time](/KEKWaitBot/docs/commands/shop) 
+- Добавлена команда [!time](/KEKWaitBot/docs/commands/time) 
 - Добавлены команды [ссылки](/KEKWaitBot/docs/commands/link) [Дискорд](https://discord.com/invite/uzJRD4wCt6 ), [ГудГейм](https://goodgame.ru/channel/JEIPEY/ ), [Телеграм](https://t.me/privetjeipey )
 - Добавлена команда ссылка-название текущей песни [!song](/KEKWaitBot/docs/commands/link) 
 
