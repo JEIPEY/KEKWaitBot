@@ -17,17 +17,17 @@ hide_table_of_contents: false
 - Добавлена система опыта
 - Добавлена система Лвлов
 - Добавлена Статистика
-- Добавлена команда !menu
-- Добавлена команда !stat и !stat all
+- Добавлена команда [!menu](/KEKWaitBot/docs/info/Menu)
+- Добавлена команда [!stat и !stat all](/KEKWaitBot/docs/info/stat)
 - Добавлен Магазин предметов [!shop](/KEKWaitBot/docs/gold/shop)
 - Добавлен предмет для магазина Наживка
-- Добавлена команда !inventory
+- Добавлена команда [!inventory](/KEKWaitBot/docs/info/inventory)
 - Добавлено получение опыта ко всем пойманым прдеметам и рыбам
-- Добавлена команда !РусскаяРулетка
+- Добавлена команда [!РусскаяРулетка](/KEKWaitBot/docs/game/Rroulette)
 - Добавлено авто-удаление сообщений с неприятными смайлами
-- Добавлена команда !time 
-- Добавлены команды ссылки [Дискорд](https://discord.com/invite/uzJRD4wCt6 ), [ГудГейм](https://goodgame.ru/channel/JEIPEY/ ), [Телеграм](https://t.me/privetjeipey )
-- Добавлена команда ссылка-название текущей песни !song 
+- Добавлена команда [!time](/KEKWaitBot/docs/commands/shop) 
+- Добавлены команды [ссылки](/KEKWaitBot/docs/commands/link) [Дискорд](https://discord.com/invite/uzJRD4wCt6 ), [ГудГейм](https://goodgame.ru/channel/JEIPEY/ ), [Телеграм](https://t.me/privetjeipey )
+- Добавлена команда ссылка-название текущей песни [!song](/KEKWaitBot/docs/commands/link) 
 
 
 
