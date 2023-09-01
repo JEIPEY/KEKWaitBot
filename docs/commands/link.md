@@ -54,4 +54,4 @@ sidebar_position: 4
 | Vip only        | No                    |
   </div>
 
-Last update on 14.10.2022
+Last update on 02.09.2023
