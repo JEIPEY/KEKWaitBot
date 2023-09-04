@@ -4,6 +4,23 @@ description: Logs ver.
 hide_table_of_contents: false
 ---
 
+## Ver. 0.004 
+#### <p id="log">04/09/2023</p>
+
+<p id="log">
+
+
+- Добавлена команда [!roll](/KEKWaitBot/docs/commands/roll)
+- Добавлена команда [!flip](/KEKWaitBot/docs/commands/roll)
+
+
+- Изменено время пузырьков (1 минута -> 2 минуты)
+
+
+</p>
+
+
+
 ## Ver. 0.003 
 #### <p id="log">02/09/2023</p>
 
