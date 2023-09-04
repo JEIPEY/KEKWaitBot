@@ -16,6 +16,8 @@ sidebar_position: 5
 
 ## Пример использования
 
+![Docs Version Dropdown](./img/time.png)
+
   <div>
 
 | Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|

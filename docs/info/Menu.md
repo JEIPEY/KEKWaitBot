@@ -15,6 +15,7 @@ sidebar_position: 1
 
 ## Пример использования
 
+![Docs Version Dropdown](./img/menu.png)
 
   <div>
 

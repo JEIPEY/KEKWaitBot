@@ -31,6 +31,9 @@ sidebar_position: 2
 
 - Наживка 120 Золота
 
+## Пример использования
+
+![Docs Version Dropdown](./img/SS.png) ![Docs Version Dropdown](./img/SS+.png) ![Docs Version Dropdown](./img/SS++.png)
 
   <div>
 

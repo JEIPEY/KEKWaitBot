@@ -23,6 +23,7 @@ sidebar_position: 3
 
 ## Пример использования
 
+![Docs Version Dropdown](./img/RR.png)
 
   <div>
 

@@ -18,6 +18,7 @@ sidebar_position: 6
 
 ## Пример использования
 
+![Docs Version Dropdown](./img/roll.png)
 
   <div>
 
@@ -39,6 +40,8 @@ sidebar_position: 6
  **`!flip`**
 
 ## Пример использования
+
+![Docs Version Dropdown](./img/flip.png)
 
   <div>
 
