@@ -27,7 +27,7 @@ sidebar_position: 3
 
   <div>
 
-| Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+| Global cooldown | 60 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |:----------------|:----------------------|
 | User cooldown   | 0 seconds            |
 | Mod only        | No                    |
