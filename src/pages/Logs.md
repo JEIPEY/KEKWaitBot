@@ -13,7 +13,7 @@ hide_table_of_contents: false
 - Добавлены магниты в [магазин](/KEKWaitBot/docs/gold/shop)
 
 
-- Изменена цена [рыб](/KEKWaitBot/docs/Fishing)
+- Изменена [цена рыб](/KEKWaitBot/docs/Fishing)
 - Изменён максимальный вес рыбы (200 -> 250)
 - Изменена [наживка](/KEKWaitBot/docs/Fishing)
 
