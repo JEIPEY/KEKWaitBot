@@ -4,6 +4,24 @@ description: Logs ver.
 hide_table_of_contents: false
 ---
 
+## Ver. 0.005 
+#### <p id="log">14/09/2023</p>
+
+<p id="log">
+
+
+- Добавлены магниты в [магазин](/KEKWaitBot/docs/gold/shop)
+
+
+- Изменена цена рыб
+- Изменён максимальный вес рыбы (200 -> 250)
+- Изменена наживка
+
+
+</p>
+
+
+
 ## Ver. 0.004 
 #### <p id="log">04/09/2023</p>
 
