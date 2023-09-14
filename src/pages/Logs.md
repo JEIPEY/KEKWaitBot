@@ -16,6 +16,7 @@ hide_table_of_contents: false
 - Изменена [цена рыб](/KEKWaitBot/docs/Fishing)
 - Изменён максимальный вес рыбы (200 -> 250)
 - Изменена [наживка](/KEKWaitBot/docs/Fishing)
+- Изменено количество золота при победе в [слотах](/KEKWaitBot/docs/games/slots) (x35 -> x100)
 
 
 </p>
