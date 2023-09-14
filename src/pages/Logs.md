@@ -11,7 +11,7 @@ hide_table_of_contents: false
 
 
 - Добавлены магниты в [магазин](/KEKWaitBot/docs/gold/shop)
-- Добавлена команда [!top lvl](/KEKWaitBot/docs/commands/top)
+- Добавлена команда [!top lvl](/KEKWaitBot/docs/commands/top#Топ-по-уровню)
 
 
 - Изменена [цена рыб](/KEKWaitBot/docs/Fishing)
