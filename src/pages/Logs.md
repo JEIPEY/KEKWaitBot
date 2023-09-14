@@ -10,15 +10,15 @@ hide_table_of_contents: false
 <p id="log">
 
 
+- Добавлены [Магниты](/KEKWaitBot/docs/Fishing#магнит)
 - Добавлены магниты в [магазин](/KEKWaitBot/docs/gold/shop)
-- Добавлена команда [!top lvl](/KEKWaitBot/docs/commands/top#Топ-по-уровню)
+- Добавлена команда [!top lvl](/KEKWaitBot/docs/commands/top#топ-по-уровню)
 
 
 - Изменена [цена рыб](/KEKWaitBot/docs/Fishing)
 - Изменён максимальный вес рыбы (200 -> 250)
-- Изменена [наживка](/KEKWaitBot/docs/Fishing)
+- Изменена [наживка](/KEKWaitBot/docs/Fishing#наживка)
 - Изменено количество золота при победе в [слотах](/KEKWaitBot/docs/games/slots) (x35 -> x100)
-
 
 </p>
 
@@ -31,7 +31,7 @@ hide_table_of_contents: false
 
 
 - Добавлена команда [!roll](/KEKWaitBot/docs/commands/roll)
-- Добавлена команда [!flip](/KEKWaitBot/docs/commands/roll)
+- Добавлена команда [!flip](/KEKWaitBot/docs/commands/roll#монетка)
 
 
 - Изменено время пузырьков (1 минута -> 2 минуты)
