@@ -16,22 +16,22 @@ sidebar_position: 2
 
 ## Использование команды
 ... **`KEKBaited`** ...
- - Команда используеться без ! так-как это эмоут из чата ![1](http://212.111.81.246:5000/emote/01FZE1VW40000063WVYFWX9MBV/1x.webp)
+ - Команда используеться без ! так-как это эмоут из чата ![1](./img/KEKBaited-1x.gif)
 
  
 
 :::tip Совет
 
-**KEKBaited** ![1](http://212.111.81.246:5000/emote/01FZE1VW40000063WVYFWX9MBV/1x.webp) можно использовать в любой части сообщения
+**KEKBaited** ![1](./img/KEKBaited-1x.gif) можно использовать в любой части сообщения
 
 :::
 
 ![Docs Version Dropdown](./img/1.png) ![Docs Version Dropdown](./img/2.png)
 
 :::info Можно использовать другие эмоуты
-- KEKBaited ![1](http://212.111.81.246:5000/emote/01FZE1VW40000063WVYFWX9MBV/1x.webp)
-- pepoBaiter ![1](http://212.111.81.246:5000/emote/01GVWHPZHG0001DJQDJH2BY5SX/1x.webp)
-- fishing ![1](http://212.111.81.246:5000/emote/01FB5EN09000033EKAWRH3E7CE/1x.webp)
+- KEKBaited ![1](./img/KEKBaited-1x.gif)
+- pepoBaiter ![1](./img/PepoBaiter-1x.png)
+- fishing ![1](./img/Fishinge-1x.png)
 :::
 ## Модификаторы рыб
 
