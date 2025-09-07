@@ -29,12 +29,9 @@ sidebar_position: 2
  
 ### Доступные предметы
 
-- Наживка 120 Золота
-- Магнит  750 Золота
+- Черви 120 Золота
+- Магнит  800 Золота
 
-## Пример использования
-
-![Docs Version Dropdown](./img/SS.png) ![Docs Version Dropdown](./img/SS+.png) ![Docs Version Dropdown](./img/SS++.png)
 
   <div>
 
@@ -48,4 +45,4 @@ sidebar_position: 2
   </div>
 
 
-Last update on 02.09.2023
+Last update on 07.09.2025
