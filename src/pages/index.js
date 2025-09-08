@@ -15,8 +15,8 @@ function HomepageHeader() {
       <div className="container">
       <iframe
     src="https://player.twitch.tv/?channel=JEIPEY&parent=JEIPEY.github.io&muted=true"
-    height="400"
-    width="720"
+    height="600"
+    width="100%"
     align="middle">
     </iframe>
         <h1 className="hero__title">{siteConfig.title}</h1>
@@ -25,7 +25,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Ознакомиться
+            Узнать больше
           </Link>
           
         </div>
