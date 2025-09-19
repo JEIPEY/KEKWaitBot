@@ -21,7 +21,6 @@ import TabItem from '@theme/TabItem';
 ... **`KEKBaited`** ...
  - Команда используеться без ! так-как это эмоут из чата ![1](./img/KEKBaited-1x.gif)
 
- 
 
 :::tip Совет
 

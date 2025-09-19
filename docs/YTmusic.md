@@ -4,6 +4,13 @@ sidebar_position: 3
 
 # Заказ музыки
 
+:::danger Заказ музыки работает только по хатению стримера
+
+Обычно в название стрима будет написано **"Реквесты включены/Реквесты выключены"**.
+
+Так же их могут включить и вовремя стрима, название также появиться что они **включены/выкдючены**.
+:::
+
 ## Добавление в очередь
 
 Позволяет добавить в очередь свою песню.
@@ -18,9 +25,6 @@ sidebar_position: 3
 | Global cooldown | 0 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |:----------------|:----------------------|
 | User cooldown   | 5 seconds            |
-| Mod only        | No                    |
-| Sub only        | No                    |
-| Vip only        | No                    |
 | Другие варианты комманды | !addsong !songrequest !sr      |
 </div>
 
@@ -30,15 +34,13 @@ sidebar_position: 3
 
 **`!song`** 
 
-
+:::note На данный момент не показывает кто добавил песню
+:::
 <div>
 
 | Global cooldown | 30 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |:----------------|:----------------------|
 | User cooldown   | 0 seconds            |
-| Mod only        | No                    |
-| Sub only        | No                    |
-| Vip only        | No                    |
 | Другие варианты комманды |  <p> !songinfo !whatsong !currentsong </p> !song !music !музыка !песня   |
 </div>
 
@@ -54,9 +56,6 @@ sidebar_position: 3
 | Global cooldown | 3 minutes⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |:----------------|:----------------------|
 | User cooldown   | 0 seconds            |
-| Mod only        | No                    |
-| Sub only        | No                    |
-| Vip only        | No                    |
 | Другие варианты комманды |   !queue !whatnext !очередь !que   |
 </div>
 
