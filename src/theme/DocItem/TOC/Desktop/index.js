@@ -16,7 +16,7 @@ export default function DocItemTOCDesktop() {
       />
       <div className='toc-chat'>
         <h2>Попробовать в чате</h2>
-        <iframe src="https://www.twitch.tv/embed/JEIPEY/chat?parent=JEIPEY.github.io?darkpopout" height="500" width="400"></iframe>
+        <iframe src="https://www.twitch.tv/embed/JEIPEY/chat?darkpopout&parent=JEIPEY.github.io" height="500" width="400"></iframe>
       </div>
     </div>
   );
