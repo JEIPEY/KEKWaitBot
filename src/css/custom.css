@@ -32,6 +32,7 @@
 
 .toc-main {
   position: fixed;
+  width: 21%;
 }
 .toc-chat {
   position: sticky !important;
