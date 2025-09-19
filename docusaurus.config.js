@@ -17,7 +17,7 @@ const config = {
     v4: true, // 
   },
   url: 'https://github.io/',
-  baseUrl: '/',
+  baseUrl: '/KEKWaitBot/',
   organizationName: 'JEIPEY',
   projectName: 'KEKWaitBot',
   onBrokenLinks: 'throw',
