@@ -16,7 +16,7 @@ const config = {
   future: {
     v4: true, // 
   },
-  url: 'https://github.com',
+  url: 'https://github.io/',
   baseUrl: '/KEKWatBot/',
   organizationName: 'JEIPEY',
   projectName: 'KEKWaitBot',
