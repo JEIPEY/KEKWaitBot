@@ -11,7 +11,7 @@ hide_table_of_contents: false
 <p id="log">
 
 
-- Добавлен [заказ музыки](/docs/games/Rroulette)
+- Добавлен [заказ музыки](/docs/YTmusic)
 - Добавлена команда [!8ball](/docs/commands/8ball)
 - Добавлена команда [!seen](/docs/commands/seen)
 - Добавлено получение опыта за [Русскую рулетку](/docs/games/Rroulette)
