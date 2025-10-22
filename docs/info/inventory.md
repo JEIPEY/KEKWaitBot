@@ -4,6 +4,12 @@ sidebar_position: 3
 
 # Инвентарь
 
+:::danger Внимание
+
+Инвентарь во время стрима отключён
+
+:::
+
 ### Описание
 
  **`!inventory`**
@@ -33,4 +39,4 @@ sidebar_position: 3
   </div>
 
 
-Last update on 07.09.2025
+Last update on 22.10.2025

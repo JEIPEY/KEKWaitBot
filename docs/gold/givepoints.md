@@ -18,9 +18,9 @@ sidebar_position: 4
 
   <div>
 
-| Global cooldown | 15 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+| Global cooldown | 5 seconds⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
 |:----------------|:----------------------|
-| User cooldown   | 0 seconds            |
+| User cooldown   | 15 seconds            |
 | Mod only        | No                    |
 | Sub only        | No                    |
 | Vip only        | No                    |
@@ -28,4 +28,4 @@ sidebar_position: 4
   </div>
 
 
-Last update on 14.10.2022
+Last update on 22.10.2022
